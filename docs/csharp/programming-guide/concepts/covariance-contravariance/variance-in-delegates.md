@@ -25,7 +25,7 @@ public delegate R SampleGenericDelegate<A, R>(A a);
   
 ```csharp  
 // Matching signature.  
-public static First ASecondRFirst(Second first)  
+public static First ASecondRFirst(Second second)  
 { return new First(); }  
   
 // The return type is more derived.  
@@ -199,5 +199,11 @@ public static void Test()
 ## <a name="see-also"></a>请参阅
 
 - [泛型](../../../../standard/generics/index.md)
-- [对 Func 和 Action 泛型委托使用变体 (C#)](./using-variance-for-func-and-action-generic-delegates.md)
+- [对 Func 和 Action 泛型委托使用
+
+
+
+
+
+(C#)](./using-variance-for-func-and-action-generic-delegates.md)
 - [如何：合并委托（多播委托）](../../delegates/how-to-combine-delegates-multicast-delegates.md)
