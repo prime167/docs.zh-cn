@@ -199,11 +199,5 @@ public static void Test()
 ## <a name="see-also"></a>请参阅
 
 - [泛型](../../../../standard/generics/index.md)
-- [对 Func 和 Action 泛型委托使用
-
-
-
-
-
-(C#)](./using-variance-for-func-and-action-generic-delegates.md)
+- [对 Func 和 Action 泛型委托使用(C#)](./using-variance-for-func-and-action-generic-delegates.md)
 - [如何：合并委托（多播委托）](../../delegates/how-to-combine-delegates-multicast-delegates.md)
